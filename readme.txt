@@ -1,7 +1,8 @@
-Hello World
+锘縃ello World
 Test git,git is free software,it is a version control system.
 Update readme file,this is readme file V2.
 Apptend my hobby: basketball,football,swim and so on.
 Apptend my name:MrGeek
 
-我新加的内容
+鎴戞柊鍔犵殑鍐呭
+淇敼宸茬煡BUG
