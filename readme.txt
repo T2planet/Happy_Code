@@ -6,3 +6,5 @@ Apptend my name:MrGeek
 
 我新加的内容
 修改已知BUG
+
+新的修改，添加新功能
